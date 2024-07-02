@@ -16,7 +16,8 @@ export function Card({
       rel="noopener noreferrer"
       target="_blank"
     >
-      <h2>
+      <h2> 
+        Card 
         {title} <span>-&gt;</span>
       </h2>
       <p>{children}</p>
